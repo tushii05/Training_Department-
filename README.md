@@ -45,30 +45,46 @@ PROJECT SNAPSHOTS
 
 Home Page
 
-![home](https://user-images.githubusercontent.com/87755170/184550716-f36710d7-c5cb-4b1a-b5f2-8227920e485c.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/104415590/215749342-62541693-0d38-4ac2-a1ea-eb35b4b91139.png)
 
 
 Login Page
 
-![Login Page](https://user-images.githubusercontent.com/87755170/184550718-f78d2e05-d90f-46cb-8a07-e3dcc3a538d3.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/104415590/215749433-8af8694d-1486-430c-b102-667256547bed.png)
 
 
 Student Panel
 
-![student panl](https://user-images.githubusercontent.com/87755170/184550794-a778a02d-748c-490d-97ba-bf68c22fd3f4.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/104415590/215751800-2b4b9e1d-56eb-4e6f-ba06-92a2e3951cc4.png)
 
 
 Admin Panel
 
-![Screenshot 2022-05-20 234626](https://user-images.githubusercontent.com/87755170/184550961-84913a45-65ac-4a70-a5b9-233709dd4465.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/104415590/215751650-8fd5b114-884a-42c8-bf14-f9d14f1d96af.png)
+
 
 Resume Generator
 
-![resume](https://user-images.githubusercontent.com/87755170/184550823-82bb6049-9a64-4e51-a171-6c86a4645ab9.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/104415590/215751834-02e7ca79-69c6-40f4-9961-7e96e95b21cd.png)
+
 
 Check Eligibility
 
 ![check eligibility](https://user-images.githubusercontent.com/87755170/184550829-86546902-a38c-4fe6-a53c-bf5844668f05.png)
+
+
+FAQ 
+
+![Screenshot (18)](https://user-images.githubusercontent.com/104415590/215749830-02c32d2a-7a9c-44e6-89d5-0dfaf91d3ada.png)
+
+
+Contact Us
+
+![Screenshot (17)](https://user-images.githubusercontent.com/104415590/215749552-421aabd7-7371-4176-918f-2778c3278b3a.png)
+
+
+
+
 
 
 
