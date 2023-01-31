@@ -68,10 +68,6 @@ Resume Generator
 ![Screenshot (21)](https://user-images.githubusercontent.com/104415590/215751834-02e7ca79-69c6-40f4-9961-7e96e95b21cd.png)
 
 
-Check Eligibility
-
-![check eligibility](https://user-images.githubusercontent.com/87755170/184550829-86546902-a38c-4fe6-a53c-bf5844668f05.png)
-
 
 FAQ 
 
