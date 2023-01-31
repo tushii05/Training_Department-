@@ -69,10 +69,6 @@ Resume Generator
 Check Eligibility
 
 ![check eligibility](https://user-images.githubusercontent.com/87755170/184550829-86546902-a38c-4fe6-a53c-bf5844668f05.png)
+![IMG_8022](https://user-images.githubusercontent.com/104415590/215748705-ffdc16d3-228c-4505-bcf9-ede33d6062d3.jpg)
 
-Resources
 
-1. https://stackoverflow.com/  <br/>
-2. https://github.com/<br/>
-3. https://tailwindcss.com/<br/>
-4. https://getbootstrap.com/
